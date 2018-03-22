@@ -9,3 +9,7 @@
 ## Codes
 
 [basarat/typescript-collections](https://github.com/basarat/typescript-collections)
+
+## Resources
+
+[算法](https://zh.wikipedia.org/wiki/%E7%AE%97%E6%B3%95)
