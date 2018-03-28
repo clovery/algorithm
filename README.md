@@ -1,5 +1,12 @@
 # Algorithm
 
+&emsp;| 数组 | 链表
+---   |---   |---
+读取  | O(1) | O(n)
+插入  | O(n) | O(1)
+删除  | O(n) | O(1)
+
+
 ## Books
 
 ### Data Structures and Algorithm Analysis in C
